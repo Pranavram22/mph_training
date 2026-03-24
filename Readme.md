@@ -10,3 +10,15 @@ synchronus & async
 sendRedirect(URL ,pages)
 forward,include
 jsp:useBean,jsp:forward,jsp:include
+
+
+
+Multithreading
+interface
+abstract class
+concrete class
+constructor and factory methods
+Functional interface 
+static vs instance(non static)
+exception handling
+collections
